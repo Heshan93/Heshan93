@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Heshan93
-- 👀 I’m interested in ...full stack web development
-- 🌱 I’m currently learning ...javascript , react , node js
-- 💞️ I’m looking to collaborate on ...new coding techniques
+- 👀 I’m interested in ...  full stack web development
+- 🌱 I’m currently learning ...  javascript , react , node js
+- 💞️ I’m looking to collaborate on ...  new coding techniques
 - 📫 How to reach me ... twitter: sl_heshan
 
 <!---
