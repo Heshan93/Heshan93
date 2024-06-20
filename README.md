@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @Heshan93
-- 👀 I’m interested in ...  full stack web development
-- 🌱 I’m currently learning ...  javascript , react , node js
-- 💞️ I’m looking to collaborate on ...  new coding techniques
-- 📫 How to reach me ... twitter: sl_heshan
+Heshan Rajitha 🚀
+About Me
 
+Hey there! I'm Heshan Rajitha, a Sri Lankan tech wizard who loves turning caffeine into code. With a BEng (Hons) in Software Engineering from London Metropolitan University, I juggle servers, craft sleek websites, and tame wild bugs. When I'm not coding, I'm probably debugging my life choices.
+
+    📧 Email: heshanrajitha1@gmail.com
+    💼 LinkedIn: Heshan Rajitha
+    📍 Location: Sri Lanka
 
 
 
